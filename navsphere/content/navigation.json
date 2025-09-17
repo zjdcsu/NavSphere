@@ -908,6 +908,15 @@
           ]
         }
       ]
+    },
+    {
+      "id": "1758114061181",
+      "title": "趣站",
+      "icon": "FolderKanban",
+      "description": "有意思的网站",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
     }
   ]
 }
