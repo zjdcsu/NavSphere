@@ -92,6 +92,14 @@
           "description": "Beautiful & consistent icon toolkit made by the community.",
           "icon": "/assets/favicon_1754229702059.ico",
           "enabled": true
+        },
+        {
+          "id": "site_1758114136528_eks878ryb",
+          "title": "Letpub",
+          "href": "https://www.letpub.com.cn/index.php?page=journalapp",
+          "description": "期刊分区查询",
+          "icon": "/assets/favicon_1758114116779.png",
+          "enabled": true
         }
       ],
       "subCategories": [],
