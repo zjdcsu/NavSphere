@@ -100,6 +100,14 @@
           "description": "Beautiful & consistent icon toolkit made by the community.",
           "icon": "/assets/favicon_1754229702059.ico",
           "enabled": true
+        },
+        {
+          "id": "site_1758114770434_iozubjnzh",
+          "title": "Google学术",
+          "href": "https://scholar.google.com.hk/",
+          "description": "借助 Google 学术搜索，您可以轻松地大范围搜索学术文献。搜索范围囊括众多知识领域和来源：文章、论文、图书、摘要和法院判决意见书。",
+          "icon": "/assets/favicon_1758114759181.ico",
+          "enabled": true
         }
       ],
       "subCategories": [],
