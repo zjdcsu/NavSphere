@@ -940,7 +940,16 @@
       "icon": "FolderKanban",
       "description": "",
       "enabled": true,
-      "items": [],
+      "items": [
+        {
+          "id": "site_1758197303572_0kvqr2h5r",
+          "title": "Scholar",
+          "href": "https://scholar.google.com.hk/",
+          "description": "访问 scholar.google.com.hk",
+          "icon": "/assets/favicon_1758197298805.png",
+          "enabled": true
+        }
+      ],
       "subCategories": []
     }
   ]
