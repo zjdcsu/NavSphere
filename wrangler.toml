@@ -8,6 +8,6 @@ GITHUB_ID = "Ov23liObiefS8of1HbHT"
 GITHUB_OWNER = "zjdcsu"
 GITHUB_REPO = "NavSphere"
 GITHUB_BRANCH = "main"
-NEXTAUTH_URL = "https://navfav.pages.dev/api/auth"
-NEXT_PUBLIC_API_URL="https://navfav.pages.dev"
+NEXTAUTH_URL = "https://nav.zjdgis.eu.org/api/auth"
+NEXT_PUBLIC_API_URL="https://nav.zjdgis.eu.org"
 
