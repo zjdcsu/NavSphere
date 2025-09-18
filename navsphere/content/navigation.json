@@ -108,6 +108,14 @@
           "description": "借助 Google 学术搜索，您可以轻松地大范围搜索学术文献。搜索范围囊括众多知识领域和来源：文章、论文、图书、摘要和法院判决意见书。",
           "icon": "/assets/favicon_1758114759181.ico",
           "enabled": true
+        },
+        {
+          "id": "site_1758197341035_wrm9a969b",
+          "title": "LetPub",
+          "href": "https://www.letpub.com.cn/index.php?page=journalapp",
+          "description": "LetPub最新SCI期刊影响因子查询及投稿分析系统（2023-2024年）整理了最新被SCI收录的所有期刊杂志的信息参数，包括期刊出版号，期刊官方投稿网址，影响因子，研究方向，SCI期刊分区，中国作者发表的文章，投稿经验等。",
+          "icon": "/assets/favicon_1758197329319.ico",
+          "enabled": true
         }
       ],
       "subCategories": [],
